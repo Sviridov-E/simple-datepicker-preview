@@ -1,5 +1,5 @@
-# Elementary example of work **Simple-datepicker-dom**
-___
+# Elementary example of work **[Simple-datepicker-dom](https://preview-simple-datepicker.web.app)**
+
 ## Links
 
 ### simple-datepicker-core
